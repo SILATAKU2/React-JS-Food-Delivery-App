@@ -1,3 +1,6 @@
+Complete Food Ordering Website / Web App using React JS 
+
+
 React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -13,6 +16,7 @@ Visit the official Node.js website i.e) https://nodejs.org/en/download/
 Download the Node.js installer
 Run the installer.
 Follow the prompts in the installer.
+
 ❖ Steps To Run The Project
 
 Open Project Folder In VS Code
