@@ -1,4 +1,5 @@
-Complete Food Ordering Website / Web App using React JS 
+# 
+# Complete Food Ordering Website / Web App using React JS 
 
 
 React + Vite
@@ -10,14 +11,14 @@ Currently, two official plugins are available:
 @vitejs/plugin-react-swc uses SWC for Fast Refresh
 #How to setup + run this project:
 
-❖ Install NodeJs ( Ignore If Already Installed)
+## Prerequisites
 
-Visit the official Node.js website i.e) https://nodejs.org/en/download/
-Download the Node.js installer
-Run the installer.
-Follow the prompts in the installer.
+Make sure you have the following installed:
 
-❖ Steps To Run The Project
+- [Node.js](https://nodejs.org/) (v12.x or later)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+## Steps To Run The Project
 
 Open Project Folder In VS Code
 Open Integrated Terminal ○ Right Click on Sidebar > Select “Open In Integrated Terminal”
